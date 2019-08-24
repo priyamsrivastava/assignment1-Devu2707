@@ -18,6 +18,10 @@ public class Gravity {
 		 *   c. Calculate the result and print it to the screen.
 		 * */
         Scanner sc = new Scanner(System.in);
+        double g = 9.8;
+        double time = sc.nextDouble();
+
+
 	}
 	// P.S: Refer to the README.md file for the problem statement, input & output.
 }
